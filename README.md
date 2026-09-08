@@ -20,6 +20,18 @@ The program focused on developing practical skills in **Python, SQL, Statistics,
 
 ---
 
+## 📂 Project Work
+
+This repository contains multiple practical projects completed during the Data Analytics Practicum Program, covering Python, SQL, statistics, and Tableau.
+
+- 🐍 **Python Project 1** — Python fundamentals and data analysis
+- 🐍 **Python Project 2** — Statistical analysis and data exploration
+- 🗄️ **SQL Project** — Advanced SQL querying and data analysis
+- 📈 **Tableau Dashboard** — Interactive dashboard with 4 visualizations, 1 filter, and 3 key insights
+
+
+---
+
 ## 🐍 Python
 
 The Python exercises focused on building a foundation in programming and data analysis.
