@@ -59,7 +59,7 @@ Dashboard Preview
 
 🔗 Interactive Dashboard
 
-View Dashboard →
+[View Dashboard →](https://public.tableau.com/app/profile/n.dia.vaz/viz/hm_4_project_NdiaVaz/Homework4?publish=yes)
 
 📚 Key Takeaways
 
